@@ -1,4 +1,5 @@
-prefix: "§8[§6SimpleWarp§8] "
+prefix: "§8[§6Warp§8] "
+
 messages:
   no-permission: "§4No permission!"
   not-enough-arguments: "§cNot enough arguments!"

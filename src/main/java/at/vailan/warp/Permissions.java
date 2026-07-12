@@ -1,4 +1,4 @@
-package at.vailan.simplewarp;
+package at.vailan.warp;
 
 public class Permissions {
 

@@ -1,4 +1,4 @@
-package at.vailan.simplewarp.manager;
+package at.vailan.warp.manager;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

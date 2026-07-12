@@ -1,29 +1,9 @@
-name: SimpleWarp
-main: at.vailan.simplewarp.SimpleWarp
+name: Warp
+main: at.vailan.warp.Warp
 version: '${project.version}'
-api-version: '1.21'
+api-version: '26.2'
 description: Allows teleportation to previously configured warp points
 author: '${project.author}'
-
-commands:
-  warp:
-    description: Teleport to a warp point
-    usage: /warp [warpName]
-    aliases:
-      - w
-    permission: simplewarp.use
-
-  setwarp:
-    description: Create a warp point
-    usage: /setwarp [warpName]
-    permission: simplewarp.set
-
-  deletewarp:
-    description: Delete a warp point
-    usage:  /deletewarp [warpName]
-    aliases:
-      - delwarp
-    permission: simplewarp.delete
 
 permissions:
   simplewarp.*:
