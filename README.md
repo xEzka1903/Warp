@@ -1,5 +1,5 @@
-# SimpleWarp v. 3.1.1 for Minecraft 1.21.x
-# Minecraft Paper & Spigot/Bukkit Server Plugin
+# SimpleWarp v. 3.2.0 for Minecraft 26.x
+# Minecraft Paper Server Plugin
 # A simple plugin that allows players teleportation to configured warp points
 
 Commands:
